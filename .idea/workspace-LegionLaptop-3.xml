@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ee62dbe-fc27-400b-9078-8e371491920e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sem2ca1/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sem2ca1/DisjointSetNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sem2ca1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sem2ca1/PixelNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sem2ca1/mainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sem2ca1/stylesheet.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LPhswdi4mJcBX3onsp3LZ3nzEV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/Desktop/javafx-sdk-19.0.2.1/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27695888&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\OneDrive - Waterford Institute of Technology\Data Structures\Sem2-CA1\src\main\resources\com\example\sem2ca1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sem2ca1.Driver" />
+      <module name="Sem2-CA1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ee62dbe-fc27-400b-9078-8e371491920e" name="Changes" comment="" />
+      <created>1675778839133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675778839133</updated>
+      <workItem from="1675778839839" duration="3605000" />
+      <workItem from="1675803475858" duration="401000" />
+      <workItem from="1675884816756" duration="1237000" />
+      <workItem from="1675890586574" duration="2179000" />
+      <workItem from="1675933290041" duration="9884000" />
+      <workItem from="1676043056580" duration="4608000" />
+      <workItem from="1676057446735" duration="11024000" />
+      <workItem from="1676114819955" duration="1844000" />
+      <workItem from="1676129794243" duration="2736000" />
+      <workItem from="1676226345098" duration="2901000" />
+      <workItem from="1676279213500" duration="338000" />
+      <workItem from="1676303925143" duration="440000" />
+      <workItem from="1676304514595" duration="2093000" />
+      <workItem from="1676381156140" duration="13845000" />
+      <workItem from="1676538801328" duration="3653000" />
+      <workItem from="1676721809815" duration="831000" />
+      <workItem from="1676756140356" duration="2582000" />
+      <workItem from="1676832504594" duration="4546000" />
+      <workItem from="1676931021976" duration="1373000" />
+      <workItem from="1677591499221" duration="12523000" />
+      <workItem from="1677741704855" duration="10298000" />
+      <workItem from="1677790761478" duration="668000" />
+      <workItem from="1677951505077" duration="857000" />
+      <workItem from="1678106877089" duration="4189000" />
+      <workItem from="1678119733445" duration="6056000" />
+      <workItem from="1678129156843" duration="8000" />
+      <workItem from="1678183510091" duration="3437000" />
+      <workItem from="1678282335281" duration="1396000" />
+      <workItem from="1678357040771" duration="1230000" />
+      <workItem from="1678719627675" duration="7546000" />
+      <workItem from="1678800084134" duration="4810000" />
+      <workItem from="1678804931722" duration="659000" />
+      <workItem from="1678809509181" duration="1297000" />
+      <workItem from="1678877178717" duration="151000" />
+      <workItem from="1678970706745" duration="437000" />
+      <workItem from="1678973122705" duration="981000" />
+      <workItem from="1678976115501" duration="780000" />
+      <workItem from="1678985325133" duration="400000" />
+      <workItem from="1679049229784" duration="172000" />
+      <workItem from="1679062453885" duration="329000" />
+      <workItem from="1679091065701" duration="6111000" />
+      <workItem from="1679255138904" duration="197000" />
+      <workItem from="1679259007874" duration="1914000" />
+      <workItem from="1679329705148" duration="1605000" />
+      <workItem from="1679346240359" duration="946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
