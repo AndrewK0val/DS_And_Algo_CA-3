@@ -1,0 +1,98 @@
+#backdrop{
+    -fx-background-color: linear-gradient(rgb(174, 174, 174) , #0f0f0f);
+
+}
+
+#tilepane{
+-fx-background-color: rgba(128, 128, 128, 0.66);
+-fx-background-radius: 10px;
+-fx-border-color: white;
+-fx-border-radius: 10px;
+-fx-border-width: 5px;
+}
+
+
+#rightMenu{
+    -fx-background-color: rgba(39, 15, 86, 0.39);
+    -fx-border-color: #d7d7d7;
+    -fx-border-width: 3px;
+
+}
+
+#vBoxRight {
+    -fx-border-color: white;
+    -fx-border-width: 3px;
+}
+
+
+#loadButton,#convBWButton, #starSizeButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(153, 134, 233, 0.82) 1%, rgb(43, 43, 43) 40%, #141212 100%);
+}
+
+#importButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(255, 219, 192, 0.82) 1%, rgb(118, 26, 0) 40%, #eb5313 100%);
+}
+
+
+#UFButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(205, 245, 198, 0.82) 1%, rgb(63, 148, 5) 40%, #17f054 100%);
+}
+
+#circlesButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(146, 212, 241, 0.82) 1%, rgb(0, 34, 121) 40%, #123ef7 100%);
+}
+
+#resetButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(255, 110, 110, 0.82) 1%, rgb(132, 0, 0) 40%, #cb0000 100%);}
+
+
+
+#saveButton{
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+    /*-fx-font-weight: bold;*/
+    -fx-background-insets: 0, 0 0 0 2;
+    -fx-background-color: linear-gradient(rgba(255, 255, 255, 0.82) 1%, rgb(93, 93, 93) 40%, #a7a7a7 100%);
+}
+#vBox{
+-fx-margin: 10px;
+
+}
